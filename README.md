@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1-apex&label=Profile%20views&color=0e75b6&style=flat" alt="1-apex" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
-- Reach me at - pratham153patil@gmail.com
+- 🌱 I’m currently learning **Spring Boot**
+- Reach me at - patilprathamesh3112@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

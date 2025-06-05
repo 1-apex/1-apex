@@ -15,5 +15,5 @@ Currently learning **Spring Boot** and always up for new challenges and ideas.
 
 Let’s connect and create something impactful. 🚀  
 
-*Warning: May or may not be powered by coffee, code, and sheer willpower.* ☕💻  
-*Fluent in debugging, procrastinating, and Googling StackOverflow.* 🤓
+*Warning: May be powered by coffee, code, and sheer willpower.* ☕💻  
+*Fluent in debugging and Googling StackOverflow.* 🤓

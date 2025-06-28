@@ -11,7 +11,6 @@
 ---
 
 I enjoy building scalable software and exploring data-driven solutions.  
-Currently learning **Spring Boot** and always up for new challenges and ideas.
 
 Let’s connect and create something impactful. 🚀  
 
